@@ -104,6 +104,10 @@
                         <color key="backgroundColor" systemColor="systemGroupedBackgroundColor"/>
                         <color key="tintColor" systemColor="systemPinkColor"/>
                     </view>
+                    <connections>
+                        <outlet property="slider" destination="sEj-eH-DiL" id="d6N-jc-Y9x"/>
+                        <outlet property="targetLabel" destination="o08-J0-08Q" id="Kz2-5Z-FUh"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
